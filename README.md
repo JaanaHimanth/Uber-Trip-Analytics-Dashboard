@@ -18,16 +18,13 @@ The objective of this project is to analyze Uber trip data and generate meaningf
 ## Dashboard Screenshots
 
 ### 1. Overview Analysis
-
-![Overview Analysis](Screenshots/overview-analysis.png)
+![Overview Analysis](overview-analysis.png.png)
 
 ### 2. Time Analysis
-
-![Time Analysis](Screenshots/time-analysis.png)
+![Time Analysis](time-analysis.png.png)
 
 ### 3. Detailed Records
-
-![Details Analysis](Screenshots/details-analysis.png)
+![Details Analysis](details-analysis.png.png)
 
 ## Technical Features
 
