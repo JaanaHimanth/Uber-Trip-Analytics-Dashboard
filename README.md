@@ -16,14 +16,13 @@ An interactive Power BI dashboard analyzing 103.73K Uber bookings across revenue
 ## Dashboard Screenshots
 
 ### 1. Overview Analysis
-![Overview Analysis](assets/overview-analysis)
+![Overview Analysis](overview-analysis.png.png)
 
 ### 2. Time Analysis
-![Time Analysis](assets/time-analysis)
+![Time Analysis](time-analysis.png.png)
 
 ### 3. Detailed Records
-![Details Analysis](assets/details-analysis)
-
+![Details Analysis](details-analysis.png.png)
 
 
 ## Technical Features
