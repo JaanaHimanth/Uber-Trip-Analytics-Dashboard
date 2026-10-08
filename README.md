@@ -1,41 +1,111 @@
-# Uber Trip Analysis | Power BI Dashboard
+# Uber-Trip-Analysis – Power BI Dashboard
 
-## Executive Summary
-An interactive Power BI dashboard analyzing 103.73K Uber bookings across revenue metrics, ride timings, location distribution, and vehicle performance.
+## Project Overview
 
-## Key Metrics & Insights
-*   **Total Bookings:** 103.73K rides generating **$1.6M** total booking value.
-*   **Average Trip Metrics:** Average booking value of **$15.0**, average trip distance of **3 miles**, and average duration of **16 minutes**.
-*   **Payment Distribution:** **Uber Pay** accounts for **67.03%** ($70K) of total bookings, followed by Cash (**32.23%**).
-*   **Day vs. Night Rides:** Daytime rides dominate at **72.8%** ($76K bookings) compared to Night rides at **27.2%** ($28K bookings).
-*   **Vehicle Performance:** **UberX** leads demand with **38,744 bookings** ($583,880 total value), followed by Uber Comfort ($253,995).
-*   **Peak Demand:** Highest demand occurs on **Weekends (Saturday & Sunday)**, with peak daily pickup activity concentrated around mid-day to late afternoon.
+This project presents an interactive Power BI dashboard for analyzing Uber ride booking data.
 
+The dashboard provides insights into booking performance, ride trends, vehicle types, cancellations, revenue, customer behavior, and time-based patterns.
 
+The objective of this project is to transform raw ride-booking data into meaningful business insights using data analysis and visualization.
 
-## Dashboard Screenshots
+---
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Excel/CSV Dataset
+
+---
+
+## Dashboard Pages
 
 ### 1. Overview Analysis
-![Overview Analysis](overview-analysis.png.png)
+
+The Overview Analysis page provides a high-level summary of the Uber booking data.
+
+Key elements include:
+
+- Total booking KPIs
+- Booking status analysis
+- Vehicle type analysis
+- Revenue-related metrics
+- Ride distance analysis
+- Customer and driver ratings
+- Interactive filters and slicers
 
 ### 2. Time Analysis
-![Time Analysis](time-analysis.png.png)
 
-### 3. Detailed Records
-![Details Analysis](details-analysis.png.png)
+The Time Analysis page focuses on understanding booking trends over time.
 
+It helps analyze:
 
-## Technical Features
-* **DAX Measures:** Calculated metrics for KPI cards, total revenue, average distances, and custom time aggregations.
-* **Interactive Slicers:** Date filters and city drop-down selectors for dynamic data analysis.
-* **Custom Navigation:** Page navigation panel linking Overview, Time Analysis, and Detailed data views.
+- Booking trends
+- Time-based patterns
+- Revenue trends
+- Ride activity
+- Performance across different periods
 
+### 3. Details
 
+The Details page provides a more granular view of the underlying booking information.
 
-## How to View
-1. Download the `reports/uber_trip_analysis.pbix` file.
-2. Open using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+Users can use filters and interact with the data to investigate individual records and booking-level details.
 
+---
 
-##  Author
-Jaana Himanth
+## Key Analysis Areas
+
+The dashboard focuses on:
+
+- Booking performance
+- Successful and cancelled bookings
+- Vehicle type performance
+- Ride distance
+- Booking value
+- Customer ratings
+- Driver ratings
+- Time-based booking trends
+- Customer and driver behavior
+
+---
+
+## Dashboard Preview
+
+### Overview Analysis
+
+![Overview Analysis](Screenshots/overview-analysis.png)
+
+### Time Analysis
+
+![Time Analysis](Screenshots/time-analysis.png)
+
+### Details
+
+![Details](Screenshots/details.png)
+
+---
+
+## Project Structure
+
+```text
+Uber-Ride-Booking-Analysis-PowerBI/
+│
+├── README.md
+│
+├── PowerBI/
+│   └── Uber_Ride_Booking_Dashboard.pbix
+│
+├── Dataset/
+│   └── uber_ride_booking_data.csv
+│
+├── Screenshots/
+│   ├── overview-analysis.png
+│   ├── time-analysis.png
+│   └── details.png
+│
+└── Documentation/
+    └── project-notes.md
