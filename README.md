@@ -76,16 +76,13 @@ The dashboard focuses on:
 ## Dashboard Preview
 
 ### Overview Analysis
-
-![Overview Analysis](Screenshots/overview-analysis.png)
+![Overview Analysis](overview-analysis.png.png)
 
 ### Time Analysis
-
-![Time Analysis](Screenshots/time-analysis.png)
+![Time Analysis](time-analysis.png.png)
 
 ### Details
-
-![Details](Screenshots/details.png)
+![Details](details-analysis.png.png)
 
 ---
 
