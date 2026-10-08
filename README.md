@@ -107,32 +107,15 @@ Uber-Ride-Booking-Analysis-PowerBI/
 └── Documentation/
     └── project-notes.md
 
-Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX
-- KPI Development
-- Data Visualization
-- Interactive Dashboard Development
-- Business Data Analysis
-- Power BI
 
 
-Business Value
 
-The dashboard can help stakeholders understand booking activity, identify cancellation patterns, compare vehicle types, monitor ride and revenue trends, and explore customer and driver-related metrics.
 
-Conclusion
 
-This project demonstrates how Power BI can be used to transform ride-booking data into an interactive analytical dashboard and generate meaningful insights for business decision-making.
 
-## How to View
 
-1. Download the `reports/uber_trip_analysis.pbix` file.
-2. Open using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-Author
+
+
 
 Jaana Himanth
