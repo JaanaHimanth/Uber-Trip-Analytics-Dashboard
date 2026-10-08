@@ -99,8 +99,8 @@ Uber-Trip-Analysis-PowerBI/
 
 ## How to View
 
-1. Download the `Uber_Trip_Analysis_Dashboard.pbix` file from the `PowerBI` folder.
-2. Open the file using **Power BI Desktop**.
+1. Download the [Uber_Data.pbix](Uber_Data.pbix) file.
+2. Open using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with the dashboard using the available slicers, filters, and navigation controls.
 
 ## Author
